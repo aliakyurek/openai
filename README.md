@@ -1,2 +1,3 @@
-# openai
-OpenAI examples
+# OpenAI
+This repo contains various projects and experiments with OpenAI's models.
+
